@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/102771260/161404484-de22e862-3e19-4b90-9e01-5cdd760fcad7.png" width="500px" />
+<script src="https://tryhackme.com/badge/1031885"></script>
 </div>
   
 <div align="center">
