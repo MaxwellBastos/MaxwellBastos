@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/102771260/161404484-de22e862-3e19-4b90-9e01-5cdd760fcad7.png" width="500px" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/EpicHom3r.png" alt="TryHackMe">
+
+
 </div>
   
 <div align="center">
