@@ -8,9 +8,6 @@
  
  
  
-</div>
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/EpicHom3r.png" alt="TryHackMe">
 
 
 </div>
